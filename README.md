@@ -1,4 +1,4 @@
-# Reddit Scaper
+# Reddit Scraper
 
 ## Overview
 
